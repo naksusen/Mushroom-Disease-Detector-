@@ -16,6 +16,10 @@
 - **📚 Educational Content**: Detailed information about diseases and treatments
 - **🌿 Mushroom Database**: Comprehensive list of mushroom types and descriptions
 
+
+**⚠️ SECURITY NOTICE**: This repository does NOT include the `google-services.json` file for security reasons. You must create your own Google API key to use this application.
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
